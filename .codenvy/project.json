@@ -1,1 +1,1 @@
-{"mixinTypes":["contribution"],"runners":{"configs":{}},"builders":{"configs":{}},"description":"","type":"blank","attributes":{"contribute_branch":["master"],"contribute_mode":["contribute"]}}
+{"mixinTypes":["contribution"],"runners":{"configs":{}},"builders":{"configs":{},"default":"maven"},"description":"The explorer project.","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"],"contribute_branch":["master"],"contribute_mode":["contribute"]}}
